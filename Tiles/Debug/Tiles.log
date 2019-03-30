@@ -1,0 +1,6 @@
+﻿  Tiles.cpp
+e:\ivytech\documents\csci102\sess_3\main\tiles\tiles.cpp(86): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+e:\ivytech\documents\csci102\sess_3\main\tiles\tiles.cpp(91): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\ivytech\documents\csci102\sess_3\main\tiles\tiles.cpp(102): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\ivytech\documents\csci102\sess_3\main\tiles\tiles.cpp(108): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Tiles.vcxproj -> E:\IvyTech\Documents\CSCI102\SESS_3\main\Debug\Tiles.exe
